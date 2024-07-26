@@ -50,13 +50,13 @@ O FKJ Manager é uma solução robusta e abrangente, projetada para transformar 
 
 Aqui estão alguns protótipos de baixa fidelidade do sistema:
 
-![Protótipo 1](![image](https://github.com/user-attachments/assets/6810c0c3-17e5-4330-a94b-47e6b70c7aed)
+[Protótipo 1](![image](https://github.com/user-attachments/assets/6810c0c3-17e5-4330-a94b-47e6b70c7aed)
 )
-![Protótipo 2](![Captura de tela 2024-07-26 185527](https://github.com/user-attachments/assets/4ec967dc-91dd-4035-93f2-b9f1d152e3a5)
+[Protótipo 2](![Captura de tela 2024-07-26 185527](https://github.com/user-attachments/assets/4ec967dc-91dd-4035-93f2-b9f1d152e3a5)
 )
-![Protótipo 3]!([Captura de tela 2024-07-26 185552](https://github.com/user-attachments/assets/fcdfe673-e33c-46c6-853f-8fc74d89d232)
+[Protótipo 3]!([Captura de tela 2024-07-26 185552](https://github.com/user-attachments/assets/fcdfe673-e33c-46c6-853f-8fc74d89d232)
 )
-![Protótipo 4]!([Captura de tela 2024-07-26 185625](https://github.com/user-attachments/assets/99d942d6-f7c5-4030-923e-491597475014)
+[Protótipo 4]!([Captura de tela 2024-07-26 185625](https://github.com/user-attachments/assets/99d942d6-f7c5-4030-923e-491597475014)
 )
 
 Você também pode visualizar o protótipo completo no seguinte link: [Link para o Protótipo](link-para-prototipo.com).
