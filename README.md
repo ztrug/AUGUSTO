@@ -50,7 +50,7 @@ O FKJ Manager é uma solução robusta e abrangente, projetada para transformar 
 
 Aqui estão alguns protótipos de baixa fidelidade do sistema:
 
-[Protótipo 1](![image](https://github.com/user-attachments/assets/6810c0c3-17e5-4330-a94b-47e6b70c7aed)
+[Protótipo 1](![image]![Captura de tela 2024-07-26 185342](https://github.com/user-attachments/assets/dedf6e6d-6bfe-42f2-bbf1-dc625075aa60)
 )
 [Protótipo 2](![image][Captura de tela 2024-07-26 185527](https://github.com/user-attachments/assets/4ec967dc-91dd-4035-93f2-b9f1d152e3a5)
 )
