@@ -59,8 +59,6 @@ Aqui estão alguns protótipos de baixa fidelidade do sistema:
 [Protótipo 4]!([Captura de tela 2024-07-26 185625](https://github.com/user-attachments/assets/99d942d6-f7c5-4030-923e-491597475014)
 )
 
-Você também pode visualizar o protótipo completo no seguinte link: [Link para o Protótipo](link-para-prototipo.com).
-
 ## Instruções de Instalação e Uso
 
 ### Clonando o Repositório
